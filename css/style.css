@@ -287,7 +287,7 @@ header{
     justify-content: center;
     position: relative;
     width: 100%;
-    background: url(/img/bg-large.svg)no-repeat;
+    background: url(/img/bg-large.png)no-repeat;
     background-size: cover;
     background-color: #FFF;
 }
@@ -550,7 +550,7 @@ header img {
 }
 
 .wave-top{
-    background-image: url(/img/wave-top.svg);
+    background-image: url(/img/wave-top.png);
     background-position: center bottom;
     background-size: 1440px 126px;
     background-repeat: repeat-x;
@@ -558,7 +558,7 @@ header img {
 }
 
 .wave-bottom{
-    background-image: url(/img/wave-bottom.svg);
+    background-image: url(/img/wave-bottom.png);
     height: 100px;
     background-position: center bottom;
     background-size: 1440px 126px;
@@ -741,7 +741,7 @@ footer{
     padding: 40px;
     height: 400px;
     background: #F3CB3F;
-    background: url(/img/footer.svg)no-repeat;
+    background: url(/img/footer.png)no-repeat;
     background-size: cover;
     
 }
