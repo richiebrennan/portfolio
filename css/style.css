@@ -287,7 +287,7 @@ header{
     justify-content: center;
     position: relative;
     width: 100%;
-    background: url(/img/bg-large.png)no-repeat;
+    background: url(../img/bg-large.png)no-repeat;
     background-size: cover;
     background-color: #FFF;
 }
@@ -523,7 +523,7 @@ header img {
     background-color: #337df3;
     padding: 60px 0px;
     color: #fff;
-    background-image: url(/img/action-back.svg);
+    background-image: url(../img/action-back.svg);
     background-size: cover;
 }
 
@@ -550,7 +550,7 @@ header img {
 }
 
 .wave-top{
-    background-image: url(/img/wave-top.png);
+    background-image: url(../img/wave-top.png);
     background-position: center bottom;
     background-size: 1440px 126px;
     background-repeat: repeat-x;
@@ -558,7 +558,7 @@ header img {
 }
 
 .wave-bottom{
-    background-image: url(/img/wave-bottom.png);
+    background-image: url(../img/wave-bottom.png);
     height: 100px;
     background-position: center bottom;
     background-size: 1440px 126px;
@@ -582,12 +582,6 @@ header img {
     margin-top: 50px;
 }
 
-
-.master{
-    background-image: url(/img/header-dmaster.png);
-    background-repeat: no-repeat;
-    background-position: center;
-}
 
 .projects-header .nav-links{
     color: #333333;
@@ -741,7 +735,7 @@ footer{
     padding: 40px;
     height: 400px;
     background: #F3CB3F;
-    background: url(/img/footer.png)no-repeat;
+    background: url(../img/footer.png)no-repeat;
     background-size: cover;
     
 }
