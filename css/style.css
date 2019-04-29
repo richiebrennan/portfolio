@@ -1050,6 +1050,7 @@ svg circle {
   opacity: 0.7;
   transform: scale(1);
   transition: all 0.3s;
+    display: none;
 }
 .menu i:hover {
   opacity: 1;
